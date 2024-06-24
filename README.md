@@ -18,7 +18,7 @@
   
 </div>
 
-- 🔭 I’m currently working whith Back-end 
+- 🔭 I’m currently working with Back-end 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: gregorygustavo@hotmail.com
 
